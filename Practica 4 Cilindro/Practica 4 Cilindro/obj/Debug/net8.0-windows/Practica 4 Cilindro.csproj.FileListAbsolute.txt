@@ -1,0 +1,18 @@
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\bin\Debug\net8.0-windows\Practica 4 Cilindro.exe
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\bin\Debug\net8.0-windows\Practica 4 Cilindro.deps.json
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\bin\Debug\net8.0-windows\Practica 4 Cilindro.runtimeconfig.json
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\bin\Debug\net8.0-windows\Practica 4 Cilindro.dll
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\bin\Debug\net8.0-windows\Practica 4 Cilindro.pdb
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica_4_Cilindro.Form1.resources
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica_4_Cilindro.Properties.Resources.resources
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.AssemblyInfoInputs.cache
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.AssemblyInfo.cs
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.dll
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\refint\Practica 4 Cilindro.dll
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.pdb
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.genruntimeconfig.cache
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\ref\Practica 4 Cilindro.dll
+C:\Users\fr370\source\repos\Practica 4 Cilindro\Practica 4 Cilindro\obj\Debug\net8.0-windows\Practica 4 Cilindro.sourcelink.json
