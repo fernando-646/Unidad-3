@@ -1,0 +1,10 @@
+C:\Users\fr370\source\repos\FWD 9\FWD 9\bin\Debug\FWD 9.exe.config
+C:\Users\fr370\source\repos\FWD 9\FWD 9\bin\Debug\FWD 9.exe
+C:\Users\fr370\source\repos\FWD 9\FWD 9\bin\Debug\FWD 9.pdb
+C:\Users\fr370\source\repos\FWD 9\FWD 9\obj\Debug\FWD 9.csproj.AssemblyReference.cache
+C:\Users\fr370\source\repos\FWD 9\FWD 9\obj\Debug\FWD_9.Form1.resources
+C:\Users\fr370\source\repos\FWD 9\FWD 9\obj\Debug\FWD_9.Properties.Resources.resources
+C:\Users\fr370\source\repos\FWD 9\FWD 9\obj\Debug\FWD 9.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\FWD 9\FWD 9\obj\Debug\FWD 9.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\FWD 9\FWD 9\obj\Debug\FWD 9.exe
+C:\Users\fr370\source\repos\FWD 9\FWD 9\obj\Debug\FWD 9.pdb
