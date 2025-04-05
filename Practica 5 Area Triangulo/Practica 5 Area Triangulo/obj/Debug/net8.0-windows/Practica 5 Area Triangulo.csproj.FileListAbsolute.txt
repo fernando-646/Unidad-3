@@ -1,0 +1,16 @@
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\bin\Debug\net8.0-windows\Practica 5 Area Triangulo.exe
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\bin\Debug\net8.0-windows\Practica 5 Area Triangulo.deps.json
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\bin\Debug\net8.0-windows\Practica 5 Area Triangulo.runtimeconfig.json
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\bin\Debug\net8.0-windows\Practica 5 Area Triangulo.dll
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\bin\Debug\net8.0-windows\Practica 5 Area Triangulo.pdb
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica_5_Area_Triangulo.Form1.resources
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica 5 Area Triangulo.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica 5 Area Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica 5 Area Triangulo.AssemblyInfoInputs.cache
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica 5 Area Triangulo.AssemblyInfo.cs
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica 5 Area Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica 5 Area Triangulo.dll
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\refint\Practica 5 Area Triangulo.dll
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica 5 Area Triangulo.pdb
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\Practica 5 Area Triangulo.genruntimeconfig.cache
+C:\Users\fr370\source\repos\Practica 5 Area Triangulo\Practica 5 Area Triangulo\obj\Debug\net8.0-windows\ref\Practica 5 Area Triangulo.dll
