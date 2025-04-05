@@ -1,0 +1,17 @@
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\bin\Debug\net8.0-windows\Practica 2 Invierte Datos.exe
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\bin\Debug\net8.0-windows\Practica 2 Invierte Datos.deps.json
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\bin\Debug\net8.0-windows\Practica 2 Invierte Datos.runtimeconfig.json
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\bin\Debug\net8.0-windows\Practica 2 Invierte Datos.dll
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\bin\Debug\net8.0-windows\Practica 2 Invierte Datos.pdb
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica_2_Invierte_Datos.Form1.resources
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica_2_Invierte_Datos.Properties.Resources.resources
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica 2 Invierte Datos.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica 2 Invierte Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica 2 Invierte Datos.AssemblyInfoInputs.cache
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica 2 Invierte Datos.AssemblyInfo.cs
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica 2 Invierte Datos.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica 2 Invierte Datos.dll
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\refint\Practica 2 Invierte Datos.dll
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica 2 Invierte Datos.pdb
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\Practica 2 Invierte Datos.genruntimeconfig.cache
+C:\Users\fr370\source\repos\Practica 2 Invierte Datos\Practica 2 Invierte Datos\obj\Debug\net8.0-windows\ref\Practica 2 Invierte Datos.dll
