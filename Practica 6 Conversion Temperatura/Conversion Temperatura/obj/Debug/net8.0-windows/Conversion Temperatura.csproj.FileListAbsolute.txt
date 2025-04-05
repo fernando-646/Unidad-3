@@ -1,0 +1,16 @@
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\bin\Debug\net8.0-windows\Conversion Temperatura.exe
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\bin\Debug\net8.0-windows\Conversion Temperatura.deps.json
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\bin\Debug\net8.0-windows\Conversion Temperatura.runtimeconfig.json
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\bin\Debug\net8.0-windows\Conversion Temperatura.dll
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\bin\Debug\net8.0-windows\Conversion Temperatura.pdb
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion_Temperatura.Form1.resources
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion Temperatura.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion Temperatura.AssemblyInfoInputs.cache
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion Temperatura.AssemblyInfo.cs
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion Temperatura.dll
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\refint\Conversion Temperatura.dll
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion Temperatura.pdb
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\Conversion Temperatura.genruntimeconfig.cache
+C:\Users\fr370\source\repos\Conversion Temperatura\Conversion Temperatura\obj\Debug\net8.0-windows\ref\Conversion Temperatura.dll
