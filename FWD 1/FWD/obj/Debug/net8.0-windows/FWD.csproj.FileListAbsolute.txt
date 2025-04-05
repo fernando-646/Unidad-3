@@ -1,0 +1,16 @@
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.Form1.resources
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.AssemblyInfoInputs.cache
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.AssemblyInfo.cs
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\FWD\FWD\bin\Debug\net8.0-windows\FWD.exe
+C:\Users\fr370\source\repos\FWD\FWD\bin\Debug\net8.0-windows\FWD.deps.json
+C:\Users\fr370\source\repos\FWD\FWD\bin\Debug\net8.0-windows\FWD.runtimeconfig.json
+C:\Users\fr370\source\repos\FWD\FWD\bin\Debug\net8.0-windows\FWD.dll
+C:\Users\fr370\source\repos\FWD\FWD\bin\Debug\net8.0-windows\FWD.pdb
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.dll
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\refint\FWD.dll
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.pdb
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\FWD.genruntimeconfig.cache
+C:\Users\fr370\source\repos\FWD\FWD\obj\Debug\net8.0-windows\ref\FWD.dll
