@@ -11,7 +11,7 @@ namespace FWD
         {
             int n = 0, count = 0, limite;
             n = int.Parse(textBox1.Text);
-            limite = int.Parse(textBox1.Text);
+            limite = int.Parse(textBox2.Text);
             do
             {
                 listBox1.Items.Add(n + " * " + count + " = " + n * count);
