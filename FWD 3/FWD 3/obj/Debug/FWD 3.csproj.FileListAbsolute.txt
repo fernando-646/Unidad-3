@@ -1,0 +1,10 @@
+C:\Users\fr370\source\repos\FWD 3\FWD 3\bin\Debug\FWD 3.exe.config
+C:\Users\fr370\source\repos\FWD 3\FWD 3\bin\Debug\FWD 3.exe
+C:\Users\fr370\source\repos\FWD 3\FWD 3\bin\Debug\FWD 3.pdb
+C:\Users\fr370\source\repos\FWD 3\FWD 3\obj\Debug\FWD 3.csproj.AssemblyReference.cache
+C:\Users\fr370\source\repos\FWD 3\FWD 3\obj\Debug\FWD_3.Form1.resources
+C:\Users\fr370\source\repos\FWD 3\FWD 3\obj\Debug\FWD_3.Properties.Resources.resources
+C:\Users\fr370\source\repos\FWD 3\FWD 3\obj\Debug\FWD 3.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\FWD 3\FWD 3\obj\Debug\FWD 3.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\FWD 3\FWD 3\obj\Debug\FWD 3.exe
+C:\Users\fr370\source\repos\FWD 3\FWD 3\obj\Debug\FWD 3.pdb
