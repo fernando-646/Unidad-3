@@ -39,6 +39,7 @@ namespace FWD_11
                 listBox1.Items.Add(x2);
                 double fx = x2 / (1.0 + x2 * x2);
                 listBox2.Items.Add(fx);
+                x2++;
             } while (x2 <= 10);
         }
 
