@@ -1,0 +1,11 @@
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\bin\Debug\flying-7288_512.gif
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\bin\Debug\Practica 1, C#.exe.config
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\bin\Debug\Practica 1, C#.exe
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\bin\Debug\Practica 1, C#.pdb
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\obj\Debug\Practica 1, C#.csproj.AssemblyReference.cache
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\obj\Debug\Practica_1__C_.Gif_Animado.resources
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\obj\Debug\Practica_1__C_.Properties.Resources.resources
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\obj\Debug\Practica 1, C#.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\obj\Debug\Practica 1, C#.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\obj\Debug\Practica 1, C#.exe
+C:\Users\fr370\source\repos\Practica 1, C#\Practica 1, C#\obj\Debug\Practica 1, C#.pdb
