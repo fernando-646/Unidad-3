@@ -1,0 +1,16 @@
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica_2__F__W__D.Form1.resources
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica 2, F, W, D.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica 2, F, W, D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica 2, F, W, D.AssemblyInfoInputs.cache
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica 2, F, W, D.AssemblyInfo.cs
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica 2, F, W, D.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\bin\Debug\net8.0-windows\Practica 2, F, W, D.exe
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\bin\Debug\net8.0-windows\Practica 2, F, W, D.deps.json
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\bin\Debug\net8.0-windows\Practica 2, F, W, D.runtimeconfig.json
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\bin\Debug\net8.0-windows\Practica 2, F, W, D.dll
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\bin\Debug\net8.0-windows\Practica 2, F, W, D.pdb
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica 2, F, W, D.dll
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\refint\Practica 2, F, W, D.dll
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica 2, F, W, D.pdb
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\Practica 2, F, W, D.genruntimeconfig.cache
+C:\Users\fr370\source\repos\Practica 2, F, W, D\Practica 2, F, W, D\obj\Debug\net8.0-windows\ref\Practica 2, F, W, D.dll
