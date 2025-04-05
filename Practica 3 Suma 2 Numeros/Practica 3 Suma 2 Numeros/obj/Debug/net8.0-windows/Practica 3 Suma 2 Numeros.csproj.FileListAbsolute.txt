@@ -1,0 +1,16 @@
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\bin\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.exe
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\bin\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.deps.json
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\bin\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.runtimeconfig.json
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\bin\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.dll
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\bin\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.pdb
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica_3_Suma_2_Numeros.Form1.resources
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.csproj.GenerateResource.cache
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.AssemblyInfoInputs.cache
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.AssemblyInfo.cs
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.csproj.CoreCompileInputs.cache
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.dll
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\refint\Practica 3 Suma 2 Numeros.dll
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.pdb
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\Practica 3 Suma 2 Numeros.genruntimeconfig.cache
+C:\Users\fr370\source\repos\Practica 3 Suma 2 Numeros\Practica 3 Suma 2 Numeros\obj\Debug\net8.0-windows\ref\Practica 3 Suma 2 Numeros.dll
